@@ -1,4 +1,4 @@
-- role: Principal Investigator
+- role: Assistant Professor
   members:
     - name: "金雄男"
       name_en: 
@@ -24,7 +24,7 @@
       email: "419542554@qq.com"
       img: ""
       interests:
-        - Knowledge boundary
+        - Knowledge boundary detection
         - Knowledge-Enhanced LLMs 
     - name: "梅甜甜"
       name_en: 
